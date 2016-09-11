@@ -1,4 +1,4 @@
-# Skimddit-A-Clone-of-Reddit
+# Skimddit-A-Clone-of-Reddit: Version 1
 This project named "Skmmitdit" is clone of popular website "Reddit". That allows users to add new link to the his own DashBoard. 
 Even people can like OR dislike the links. Project had been developed on mainly J2EE concepts: JSP, Servlets, Maven and Eclipse IDE as well.
 
